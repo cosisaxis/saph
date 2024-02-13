@@ -169,4 +169,9 @@ header .menu{
     .arrows{
         top: 10%;
     }
+    #test1{
+        height: 170px;
+        width: 120px ;
+    }
+
 }
